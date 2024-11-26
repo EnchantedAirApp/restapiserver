@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EnchantedAirApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EnchantedAirApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

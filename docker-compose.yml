@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  enchantedairapi:
+    image: modernsatyrmedia/enchantedairapi:latest
+    container_name: enchantedairapi
+    environment:
+      - DB_HOST=mysql
+      - DB_NAME=EnchantedAirDB
+      - DB_USER=root
+      - DB_PASSWORD=212FuckYou!
+      - DB_PORT=3306
+    depends_on:
+      - enchantedairdb
+    ports:
+      - "5000:5000"  # Expose the app's port (adjust as needed)
+
+  enchantedairdb:
+    image: mysql:8.0
+    container_name: enchantedairdb
+    environment:
+      MYSQL_ROOT_PASSWORD: 212FuckYou!
+      MYSQL_DATABASE: EnchantedAirDB
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql  # Persist MySQL data
+volumes:
+  mysql_data:
+    driver: local
+
+networks:
+  app_network:
+   external: true
+  db_network:
+   external: true

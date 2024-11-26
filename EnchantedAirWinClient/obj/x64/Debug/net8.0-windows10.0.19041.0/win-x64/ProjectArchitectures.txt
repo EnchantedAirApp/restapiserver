@@ -1,0 +1,1 @@
+C:\Users\jason\source\repos\restapiserver\EnchantedAirWinClient\EnchantedAirWinClient.csproj;x64

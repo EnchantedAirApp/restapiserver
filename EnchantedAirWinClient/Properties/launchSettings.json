@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EnchantedAirWinClient (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "EnchantedAirWinClient (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

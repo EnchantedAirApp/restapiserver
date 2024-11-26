@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "avgbg9zDGdd8849JCcTrWoqXmshtz+PbLZH2BDQ1MGA=",
+  "Source": "app.enchantedair.api",
+  "BasePath": "_content/app.enchantedair.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jason\\source\\repos\\restapiserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\bagoftricks.modernsatyrmedia\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|solutionrelative:bagoftricks.modernsatyrmedia\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\bagoftricks.modernsatyrmedia\\bagoftricks.modernsatyrmedia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|solutionrelative:bagoftricks.modernsatyrmedia\\bagoftricks.modernsatyrmedia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF1AA9F-B387-4C3B-B9EE-512036E087EA}|persistence.enchantedair.app\\persistence.enchantedair.app.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\usersessiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FF1AA9F-B387-4C3B-B9EE-512036E087EA}|persistence.enchantedair.app\\persistence.enchantedair.app.csproj|solutionrelative:persistence.enchantedair.app\\usersessiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\extension\\policieconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\extension\\policieconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\extension\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\extension\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\DBExtensions.cs",
+              "RelativeDocumentMoniker": "BagOfTricks.ModernSatyrMedia\\DBExtensions.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\DBExtensions.cs",
+              "RelativeToolTip": "BagOfTricks.ModernSatyrMedia\\DBExtensions.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:29:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BagOfTricks.ModernSatyrMedia",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj",
+              "RelativeDocumentMoniker": "BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj",
+              "RelativeToolTip": "BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T03:29:52.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSessionDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\UserSessionDBContext.cs",
+              "RelativeDocumentMoniker": "persistence.enchantedair.app\\UserSessionDBContext.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\UserSessionDBContext.cs",
+              "RelativeToolTip": "persistence.enchantedair.app\\UserSessionDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:29:48.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Program.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Program.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Program.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:29:28.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicieConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\PolicieConfig.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Extension\\PolicieConfig.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\PolicieConfig.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Extension\\PolicieConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:23:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:23:10.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

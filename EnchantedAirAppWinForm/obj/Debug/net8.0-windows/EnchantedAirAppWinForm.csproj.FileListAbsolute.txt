@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\bin\Debug\net8.0-windows\EnchantedAirAppWinForm.exe
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\bin\Debug\net8.0-windows\EnchantedAirAppWinForm.deps.json
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\bin\Debug\net8.0-windows\EnchantedAirAppWinForm.runtimeconfig.json
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\bin\Debug\net8.0-windows\EnchantedAirAppWinForm.dll
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\bin\Debug\net8.0-windows\EnchantedAirAppWinForm.pdb
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.AssemblyInfo.cs
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.sourcelink.json
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.dll
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\refint\EnchantedAirAppWinForm.dll
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.pdb
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\EnchantedAirAppWinForm.genruntimeconfig.cache
+C:\Users\jason\source\repos\restapiserver\EnchantedAirAppWinForm\obj\Debug\net8.0-windows\ref\EnchantedAirAppWinForm.dll

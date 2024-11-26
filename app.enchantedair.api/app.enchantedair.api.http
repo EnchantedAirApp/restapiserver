@@ -1,0 +1,6 @@
+@app.enchantedair.api_HostAddress = http://localhost:5222
+
+GET {{app.enchantedair.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "app.enchantedair.api.Controllers.MoodController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/journal/Mood",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "models.enchantedair.app.mood",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.enchantedair.api.Controllers.MoodController",
+    "Method": "DeleteSync",
+    "RelativePath": "api/journal/Mood",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.enchantedair.api.Controllers.MoodController",
+    "Method": "GetAsync",
+    "RelativePath": "api/journal/Mood",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.enchantedair.api.Controllers.MoodController",
+    "Method": "UpdateSync",
+    "RelativePath": "api/journal/Mood",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "models.enchantedair.app.mood",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "app.enchantedair.api.Controllers.MoodController",
+    "Method": "GetAsync",
+    "RelativePath": "api/journal/Mood/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

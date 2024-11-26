@@ -1,0 +1,339 @@
+openapi: 3.1.0
+info:
+  version: '1.0'
+  title: Enchanted Air Amethyst Path
+  summary: API for Enchanted Air
+  description: API for Enchanted Air Authoritive
+  termsOfService: Must comply with subscriber and additional agreements
+  contact:
+    name: Jason
+    url: 'https://enchantedair.app'
+    email: jason@enchantedair.app
+  license:
+    url: 'https://enchantedair.app/eula'
+    name: NA
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  '/users/{userId}':
+    get:
+      summary: Get User Info by User ID
+      description: Retrieve the information of the user with the matching user ID.
+      operationId: get-users-userId
+      parameters:
+        - name: userId
+          in: path
+          description: Id of an existing user.
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: User Found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/user'
+              examples:
+                Get User Alice Smith:
+                  value:
+                    id: 142
+                    firstName: Alice
+                    lastName: Smith
+                    email: alice.smith@gmail.com
+                    dateOfBirth: '1997-10-31'
+                    emailVerified: true
+                    signUpDate: '2019-08-24'
+        '404':
+          description: User Not Found
+      servers:
+        - url: 'http://localhost:3000'
+    patch:
+      summary: Update User Information
+      description: Update the information of an existing user.
+      operationId: patch-users-userId
+      parameters:
+        - name: userId
+          in: path
+          description: Id of an existing user.
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        description: Patch user properties to update.
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                firstName:
+                  type: string
+                lastName:
+                  type: string
+                email:
+                  type: string
+                  description: 'If a new email is given, the user''s email verified property will be set to false.'
+                dateOfBirth:
+                  type: string
+            examples:
+              Update First Name:
+                value:
+                  firstName: Rebecca
+              Update Email:
+                value:
+                  email: rebecca@gmail.com
+              Update Last Name & Date of Birth:
+                value:
+                  lastName: Baker
+                  dateOfBirth: '1985-10-02'
+      responses:
+        '200':
+          description: User Updated
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/user'
+              examples:
+                Updated User Rebecca Baker:
+                  value:
+                    id: 13
+                    firstName: Rebecca
+                    lastName: Baker
+                    email: rebecca@gmail.com
+                    dateOfBirth: '1985-10-02'
+                    emailVerified: false
+                    createDate: '2019-08-24'
+        '404':
+          description: User Not Found
+        '409':
+          description: Email Already Taken
+      servers:
+        - url: 'http://localhost:3000'
+  /user:
+    post:
+      summary: Create New User
+      description: Create a new user.
+      operationId: post-user
+      requestBody:
+        description: Post the necessary fields for the API to create a new user.
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                firstName:
+                  type: string
+                lastName:
+                  type: string
+                email:
+                  type: string
+                dateOfBirth:
+                  type: string
+                  format: date
+              required:
+                - firstName
+                - lastName
+                - email
+                - dateOfBirth
+            examples:
+              Create User Bob Fellow:
+                value:
+                  firstName: Bob
+                  lastName: Fellow
+                  email: bob.fellow@gmail.com
+                  dateOfBirth: '1996-08-24'
+      responses:
+        '200':
+          description: User Created
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/user'
+              examples:
+                New User Bob Fellow:
+                  value:
+                    id: 12
+                    firstName: Bob
+                    lastName: Fellow
+                    email: bob.fellow@gmail.com
+                    dateOfBirth: '1996-08-24'
+                    emailVerified: false
+                    createDate: '2020-11-18'
+        '400':
+          description: Missing Required Information
+        '409':
+          description: Email Already Taken
+      servers:
+        - url: 'http://localhost:3000'
+  /journal/mood:
+    get:
+      summary: Your GET endpoint
+      description: Get All Moods by user
+      operationId: get-all-journal-mood
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+    post:
+      summary: Your POST endpoint
+      description: "Create's a Journal entry that is a mood. This is used to track states of mind and allow user to integrate experiences.\r\n"
+      operationId: post-journal-mood
+      parameters:
+        - name: Authorization
+          in: header
+          description: Bearer token of JWT
+          schema:
+            type: string
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+  '/journal/mood/{moodId}':
+    get:
+      summary: Your GET endpoint
+      operationId: get-journal-mood-moodId
+      parameters:
+        - name: moodId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses: {}
+      servers:
+        - url: 'http://localhost:3000'
+    patch:
+      summary: Your PATCH endpoint
+      operationId: patch-journal-mood-moodId
+      parameters:
+        - name: moodId
+          in: path
+          required: true
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/mood'
+      responses:
+        '200':
+          description: OK
+        '204':
+          description: No Content
+      servers:
+        - url: 'http://localhost:3000'
+components:
+  securitySchemes:
+    jwt:
+      type: http
+      scheme: basic
+  schemas:
+    user:
+      type: object
+      title: User
+      properties:
+        id:
+          type: integer
+          description: Unique identifier for the given user.
+        firstName:
+          type: string
+        lastName:
+          type: string
+        email:
+          type: string
+          format: email
+        dateOfBirth:
+          type: string
+          format: date
+          examples:
+            - '1997-10-31'
+        emailVerified:
+          type: boolean
+          description: Set to true if the user's email has been verified.
+        createDate:
+          type: string
+          description: The date that the user was created.
+          format: date
+        auth0id:
+          type: string
+        state:
+          type: integer
+        '':
+          type: string
+      required:
+        - id
+        - firstName
+        - lastName
+        - email
+        - emailVerified
+      examples:
+        - id: 142
+          firstName: Alice
+          lastName: Smith
+          email: alice.smith@gmail.com
+          dateOfBirth: '1997-10-31'
+          emailVerified: true
+          signUpDate: '2019-08-24'
+    mood:
+      type: object
+      title: mood
+      description: entry for moods
+      properties:
+        emotion:
+          $ref: '#/components/schemas/emotion'
+        intensity:
+          type: integer
+          format: int32
+          minimum: 0
+          maximum: 100
+        entry:
+          $ref: '#/components/schemas/journal'
+        id:
+          type: integer
+          format: int64
+          readOnly: true
+    emotion:
+      type: string
+      enum:
+        - Joy
+        - Sad
+        - Anger
+        - Disgust
+        - Surprise
+        - Fear
+        - Guilt
+        - Love
+        - Shame
+        - Embarrassment
+        - Hope
+        - Gratitude
+        - Jealousy
+        - Pride
+        - Compassion
+        - Relief
+        - Awe
+        - Anticipation
+        - Nostalgia
+        - Bitterness
+        - Disappointment
+        - Frustration
+        - Curiosity
+        - Boredom
+        - Confusion
+        - Trust
+        - Contempt
+      title: emotion
+    journal:
+      type: object
+      title: journal
+      properties:
+        id:
+          type: string
+        user:
+          type: string
+        entry:
+          type: string
+        created:
+          type: string
+        updated:
+          type: string
+        '':
+          type: string

@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jason\\source\\repos\\restapiserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\extension\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\extension\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\bagoftricks.modernsatyrmedia\\apiserver\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|solutionrelative:bagoftricks.modernsatyrmedia\\apiserver\\corsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\bagoftricks.modernsatyrmedia\\devextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A81F3C-065E-494D-B555-51A53BDD3241}|BagOfTricks.ModernSatyrMedia\\BagOfTricks.ModernSatyrMedia.csproj|solutionrelative:bagoftricks.modernsatyrmedia\\devextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\externalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\app.enchantedair.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FF1AA9F-B387-4C3B-B9EE-512036E087EA}|persistence.enchantedair.app\\persistence.enchantedair.app.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\persistence.enchantedair.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FF1AA9F-B387-4C3B-B9EE-512036E087EA}|persistence.enchantedair.app\\persistence.enchantedair.app.csproj|solutionrelative:persistence.enchantedair.app\\persistence.enchantedair.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110FD8A0-A628-4E44-A503-8815FA2527D3}|models.enchantedair.app\\models.enchantedair.app.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\models.enchantedair.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{110FD8A0-A628-4E44-A503-8815FA2527D3}|models.enchantedair.app\\models.enchantedair.app.csproj|solutionrelative:models.enchantedair.app\\models.enchantedair.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jason\\AppData\\Local\\Temp\\83b2f434-ca1f-4229-99ae-6e1876c2568b_react-01-login (2).zip.68b\\sample-01\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110FD8A0-A628-4E44-A503-8815FA2527D3}|models.enchantedair.app\\models.enchantedair.app.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{110FD8A0-A628-4E44-A503-8815FA2527D3}|models.enchantedair.app\\models.enchantedair.app.csproj|solutionrelative:models.enchantedair.app\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\controllers\\moodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\controllers\\moodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\UserProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reactproject1\\src\\components\\UserProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\app.enchantedair.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|c:\\users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED62FE33-B188-47FB-87C7-8094C428CDCF}|app.enchantedair.api\\app.enchantedair.api.csproj|solutionrelative:app.enchantedair.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jason\\source\\repos\\restapiserver\\EnchantedAirApp\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnchantedAirApp\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\LogoutButton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reactproject1\\src\\components\\LogoutButton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\Journal.cs",
+              "RelativeDocumentMoniker": "models.enchantedair.app\\Journal.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\Journal.cs",
+              "RelativeToolTip": "models.enchantedair.app\\Journal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T02:51:26.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Extension\\CorsExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:46:31.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\APIServer\\CorsExtensions.cs",
+              "RelativeDocumentMoniker": "BagOfTricks.ModernSatyrMedia\\APIServer\\CorsExtensions.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\APIServer\\CorsExtensions.cs",
+              "RelativeToolTip": "BagOfTricks.ModernSatyrMedia\\APIServer\\CorsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T23:30:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\DevExtensions.cs",
+              "RelativeDocumentMoniker": "BagOfTricks.ModernSatyrMedia\\DevExtensions.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\BagOfTricks.ModernSatyrMedia\\DevExtensions.cs",
+              "RelativeToolTip": "BagOfTricks.ModernSatyrMedia\\DevExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:45:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "externalcontroller.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\externalcontroller.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\externalcontroller.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\externalcontroller.cs",
+              "RelativeToolTip": "app.enchantedair.api\\externalcontroller.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:20:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.enchantedair.api",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.csproj",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\app.enchantedair.api.csproj",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.csproj",
+              "RelativeToolTip": "app.enchantedair.api\\app.enchantedair.api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T04:33:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "persistence.enchantedair.app.csproj",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\persistence.enchantedair.app.csproj",
+              "RelativeDocumentMoniker": "persistence.enchantedair.app\\persistence.enchantedair.app.csproj",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\persistence.enchantedair.app\\persistence.enchantedair.app.csproj",
+              "RelativeToolTip": "persistence.enchantedair.app\\persistence.enchantedair.app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T04:10:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:12:39.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "models.enchantedair.app.csproj",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\models.enchantedair.app.csproj",
+              "RelativeDocumentMoniker": "models.enchantedair.app\\models.enchantedair.app.csproj",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\models.enchantedair.app\\models.enchantedair.app.csproj",
+              "RelativeToolTip": "models.enchantedair.app\\models.enchantedair.app.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T20:45:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:48:44.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Dockerfile",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Dockerfile",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Dockerfile",
+              "RelativeToolTip": "app.enchantedair.api\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-03T20:40:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\jason\\AppData\\Local\\Temp\\83b2f434-ca1f-4229-99ae-6e1876c2568b_react-01-login (2).zip.68b\\sample-01\\package.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\83b2f434-ca1f-4229-99ae-6e1876c2568b_react-01-login (2).zip.68b\\sample-01\\package.json",
+              "ToolTip": "C:\\Users\\jason\\AppData\\Local\\Temp\\83b2f434-ca1f-4229-99ae-6e1876c2568b_react-01-login (2).zip.68b\\sample-01\\package.json [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\83b2f434-ca1f-4229-99ae-6e1876c2568b_react-01-login (2).zip.68b\\sample-01\\package.json [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T19:10:39.518Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.json",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\appsettings.json",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.json",
+              "RelativeToolTip": "app.enchantedair.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T20:41:10.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoodController.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\MoodController.cs",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\Controllers\\MoodController.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\Controllers\\MoodController.cs",
+              "RelativeToolTip": "app.enchantedair.api\\Controllers\\MoodController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:14:58.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogoutButton.jsx",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\LogoutButton.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\components\\LogoutButton.jsx",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\LogoutButton.jsx",
+              "RelativeToolTip": "reactproject1\\src\\components\\LogoutButton.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-04T19:47:27.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\UserProfile.jsx",
+              "RelativeDocumentMoniker": "reactproject1\\src\\components\\UserProfile.jsx",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\reactproject1\\src\\components\\UserProfile.jsx",
+              "RelativeToolTip": "reactproject1\\src\\components\\UserProfile.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-04T20:07:55.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.enchantedair.api.http",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.http",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\app.enchantedair.api.http",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\app.enchantedair.api.http",
+              "RelativeToolTip": "app.enchantedair.api\\app.enchantedair.api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-03T20:50:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "app.enchantedair.api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\app.enchantedair.api\\appsettings.Development.json",
+              "RelativeToolTip": "app.enchantedair.api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T20:41:09.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jason\\source\\repos\\restapiserver\\EnchantedAirApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EnchantedAirApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jason\\source\\repos\\restapiserver\\EnchantedAirApp\\App.xaml.cs",
+              "RelativeToolTip": "EnchantedAirApp\\App.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:54:12.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
