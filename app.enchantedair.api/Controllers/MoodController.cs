@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace app.enchantedair.api.Controllers
 { 
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class MoodsController : ControllerBase

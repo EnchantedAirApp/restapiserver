@@ -3,9 +3,9 @@
 using Amazon.S3;
 using app.enchantedair.extensions;
 using app.enchantedair.persistence;
+using BagOfTricks.ModernSatyrMedia.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using persistence.enchantedair.app;
 
 namespace app.enchantedair.api
 {   public class Program
@@ -14,7 +14,17 @@ namespace app.enchantedair.api
         {
             var builder = WebApplication.CreateBuilder(args);
             // Add services to the container.
-            builder.AddConfigBasedCors();
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("OpenPolicy", policy =>
+                {
+                    policy.WithOrigins("http://localhost:3000") // React App URL
+                          .AllowAnyHeader() // Allow any headers
+                          .AllowAnyMethod() // Allow any HTTP methods (GET, POST, PUT, DELETE, etc.)
+                          .AllowCredentials()
+                          .Build(); // Allow cookies and credentials
+                });
+            });
             builder.Services.AddHttpLogging(o => {  });
             builder.Services.AddSingleton<IAmazonS3>(sp =>
             {
@@ -33,7 +43,8 @@ namespace app.enchantedair.api
             });
             //Migrated This to DBExtensions for Cleaning up code while migrating to DockerFile
             builder.Services.AddHttpContextAccessor();
-            builder.Services.AddEnchantedAirDB();
+            builder.Services.AddDbContext<EnchantedAirDB>(options => options.SetMySQLSettings());
+            //builder.Services.AddDbContext<EnchantedAirDB>(options => options.SetSQLiteSettings());
             builder.Services.AddControllers();
             builder.Services.AddHttpClient();
             builder.Services.AddAuthentication(options =>
@@ -54,7 +65,7 @@ namespace app.enchantedair.api
             app.UseHttpLogging();
             app.Services.EnsureDatabaseCreated<EnchantedAirDB>();
             // Configure the HTTP request pipeline.
-            app.UseCors("AllowReactApp");
+            app.UseCors("OpenPolicy");
 
 
             app.MapControllers();

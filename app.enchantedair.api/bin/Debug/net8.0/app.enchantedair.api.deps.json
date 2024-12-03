@@ -9,6 +9,7 @@
       "app.enchantedair.api/1.0.0": {
         "dependencies": {
           "AWSSDK.S3": "3.7.405.11",
+          "BagOfTricks.ModernSatyrMedia": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
@@ -842,6 +843,21 @@
       },
       "System.Text.Encodings.Web/4.5.0": {},
       "System.Threading.Channels/6.0.0": {},
+      "BagOfTricks.ModernSatyrMedia/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "8.0.10",
+          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
+        },
+        "runtime": {
+          "BagOfTricks.ModernSatyrMedia.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "models.enchantedair.app/1.0.0": {
         "runtime": {
           "models.enchantedair.app.dll": {
@@ -1321,6 +1337,11 @@
       "sha512": "sha512-TY8/9+tI0mNaUMgntOxxaq2ndTkdXqLSxvPmas7XEqOlv9lQtB7wLjYGd756lOaO7Dvb5r/WXhluM+0Xe87v5Q==",
       "path": "system.threading.channels/6.0.0",
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
+    },
+    "BagOfTricks.ModernSatyrMedia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "models.enchantedair.app/1.0.0": {
       "type": "project",

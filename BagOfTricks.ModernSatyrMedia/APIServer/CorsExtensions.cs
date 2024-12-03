@@ -8,9 +8,6 @@ namespace BagOfTricks.ModernSatyrMedia.APIServer
 {
     public static class CorsExtensions
     {
-       public static WebApplicationBuilder AddConfigBasedCors(this WebApplicationBuilder builder {
-            var ConfigPolicies = new CorsPoliciesConfig();
-            builder.
-        }
+       
     }
 }

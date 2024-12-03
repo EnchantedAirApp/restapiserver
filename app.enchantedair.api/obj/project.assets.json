@@ -1298,7 +1298,8 @@
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "8.0.10",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
         },
         "compile": {
           "bin/placeholder/BagOfTricks.ModernSatyrMedia.dll": {}

@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.deps.json
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.runtimeconfig.json
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.dll
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.pdb
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.csproj.AssemblyReference.cache
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.AssemblyInfo.cs
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.sourcelink.json
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.dll
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\refint\BagOfTricks.ModernSatyrMedia.dll
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.pdb
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\BagOfTricks.ModernSatyrMedia.genruntimeconfig.cache
+C:\Users\jason\source\repos\restapiserver\BagOfTricks.ModernSatyrMedia\obj\Debug\net8.0\ref\BagOfTricks.ModernSatyrMedia.dll

@@ -120,8 +120,10 @@ C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.dll
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\models.enchantedair.app.dll
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\persistence.enchantedair.app.dll
+C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\BagOfTricks.ModernSatyrMedia.pdb
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\models.enchantedair.app.pdb
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\bin\Debug\net8.0\persistence.enchantedair.app.pdb
 C:\Users\jason\source\repos\restapiserver\app.enchantedair.api\obj\Debug\net8.0\app.enchantedair.api.csproj.AssemblyReference.cache

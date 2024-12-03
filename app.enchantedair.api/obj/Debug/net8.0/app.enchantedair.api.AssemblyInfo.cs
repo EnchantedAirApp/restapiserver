@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app.enchantedair.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c5bdf6d003450109184453a4b2c792f4be87ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7989cf3a7a6f94bf3ba9b8454e85a76777b3ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("app.enchantedair.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app.enchantedair.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

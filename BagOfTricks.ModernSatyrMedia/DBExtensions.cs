@@ -31,25 +31,19 @@ namespace BagOfTricks.ModernSatyrMedia.Extensions
                 }
             }
         }
-        public static IServiceCollection AddDBMySQL<t>(this IServiceProvider serviceProvider) where t : DbContext =>
-            serviceProvider.
-        public static IServiceCollection AddDBSqlLiteContext<t>(this IServiceCollection services) where t : DbContext =>
-            services.AddDbContext<t>(options => options.SetSQLiteSettings());
         public static void SetMySQLSettings(this DbContextOptionsBuilder options)
         {
             // Use environment variables to determine the database connection string or default to a local configuration
-            var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING")
-       
-
-        options.UseMySql(
+            var connectionString = "server=localhost;port=3306;database=enchantedair;user=root;password=212FuckYou!"; //Environment.GetEnvironmentVariable("DB_CONNECTION_STRING");
+            options.UseMySql(
             connectionString,
-            ServerVersion.AutoDetect(connectionString), // Automatically detect the MySQL server version
+                ServerVersion.AutoDetect(connectionString), // Automatically detect the MySQL server version
             mysqlOptions =>
             {
-                mysqlOptions.MigrationsAssembly(typeof(DBExtensions).Assembly.FullName); // Ensure migrations are generated in the current assembly
+                mysqlOptions.MigrationsAssembly(typeof(DBExtenstions).Assembly.FullName); // Ensure migrations are generated in the current assembly
             });
         }
-public static void SetSQLiteSettings(this DbContextOptionsBuilder options)
+        public static void SetSQLiteSettings(this DbContextOptionsBuilder options)
         {
             // Use environment variables to determine the database path, or default to a local file
             var databasePath = Environment.GetEnvironmentVariable("DB_PATH") ?? "Data Source=AppDB.sqlite";

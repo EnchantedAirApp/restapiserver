@@ -9,5 +9,6 @@ namespace app.enchantedair.api.Extension
     public record CorsPolicyOptions(string[] AllowedOrigins, string[] AllowedMethods, string[] AllowedHeaders, bool Enabled, bool AllowAll = false);
     public class CorsPoliciesConfig()
     {
-        public IDictionary<string, CorsPolicyOptions>  Policies { get; set; }
+        public IDictionary<string, CorsPolicyOptions> Policies { get; set; }
     }
+}
